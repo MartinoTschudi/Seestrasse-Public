@@ -1,6 +1,0 @@
-*.ifc filter=lfs diff=lfs merge=lfs -text
-2104_220426_12_55__IFC filter=lfs diff=lfs merge=lfs -text
-Export filter=lfs diff=lfs merge=lfs -text
-TIMBER_OS filter=lfs diff=lfs merge=lfs -text
-Komplett.ifc filter=lfs diff=lfs merge=lfs -text
-Seestrasse.ifc filter=lfs diff=lfs merge=lfs -text
