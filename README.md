@@ -1,5 +1,6 @@
 ![SwissProperty_Logo](https://user-images.githubusercontent.com/74647806/191553349-007cad44-5847-41bc-a9d4-16cd2bf79576.png)
 
+<img src="https://user-images.githubusercontent.com/74647806/191553349-007cad44-5847-41bc-a9d4-16cd2bf79576.png" width="100" height="100">
 
 ## Projekt Zürich Wollishofen, Seestrasse 346
 
