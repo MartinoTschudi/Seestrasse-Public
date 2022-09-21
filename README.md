@@ -1,3 +1,9 @@
+Swiss Property AG - Projekt Zürich Wollishofen, Seestrasse 346
+
+![image](https://user-images.githubusercontent.com/74647806/191504174-87550d33-8347-4d5b-85a9-6287faf53eb9.png)
+
+
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
