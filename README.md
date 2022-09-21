@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/74647806/191504174-87550d33-8347-4d5b-85a9-6287faf53eb9.png)
 
-You can view the model on [Bldrs](https://bldrs.ai/share/v/gh/Swiss-Property-AG/Seestrasse-Public/main/SEESTRASSE.ifc#i:1314517967::c:71.12,26.27,14.92,16.6,5.47,7.43)
+## You can view the model on [Bldrs](https://bldrs.ai/share/v/gh/Swiss-Property-AG/Seestrasse-Public/main/SEESTRASSE.ifc#i:1314517967::c:71.12,26.27,14.92,16.6,5.47,7.43)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
