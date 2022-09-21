@@ -1,4 +1,4 @@
-Swiss Property AG - Projekt Zürich Wollishofen, Seestrasse 346
+*Swiss Property AG - Projekt Zürich Wollishofen, Seestrasse 346
 
 ![image](https://user-images.githubusercontent.com/74647806/191504174-87550d33-8347-4d5b-85a9-6287faf53eb9.png)
 
